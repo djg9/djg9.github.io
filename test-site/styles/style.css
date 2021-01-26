@@ -1,0 +1,43 @@
+html {
+    font-size: 15px; 
+    font-family: "Texturina", serif;
+}
+
+body {
+    width: 975px;
+    margin: 0 auto;
+    background-color:rgb(3, 78, 3);
+    padding: 0 20px 20px 20px;
+    border: thick solid rgb(204, 4, 4);
+}
+
+h1 {
+    margin: 0; /*ncssry to chng dflt gap*/
+    padding: 20px 0;
+    color: white;
+    text-shadow: 5px 5px 5px rgb(204, 4, 4);
+    text-align: center;
+    font-size: 45px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    border:thick solid rgb(204, 4, 4);
+}
+
+h2, p, li {
+    font-size: 16px; 
+    line-height: 2; 
+    letter-spacing: 1px; 
+    padding: 10px;
+    color: white;
+    text-shadow: black 5px 5px;
+}
